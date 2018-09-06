@@ -1,1 +1,1 @@
-# collections-training
+# Examples of using collections
